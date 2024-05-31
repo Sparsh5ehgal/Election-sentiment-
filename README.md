@@ -1,8 +1,9 @@
 # Election sentiment Analysis using Glove and RNN
 Twitter sentiment analysis for elections using Twitter database and glove and rnn model
-The repository contains 5 ipython notebooks. The steps involved in the implementation of this project are as follows:
+The repository contains 5 ipython notebooks. 
 
-portfolio notebook gives the over view of the project.
+The steps involved in the implementation of this project are as follows:
+
 Election_datascapre (code for fetching tweets using the twitter api tweepy)
 Data_Labeling (code for labeling tweets as positive or negative based on the sentiment score. Resampling procedure for the data)
 Exploratory Data Analysis
